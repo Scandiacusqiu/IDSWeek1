@@ -55,7 +55,7 @@ Change the text of the plot title and axis labels.
 
 ```{r labelled-bar-plot}
 p1 + labs(x = "Name", 
-          y = "Number",
+          y = "FavNumber",
           title = "Number vs. Name")
 ```
 
