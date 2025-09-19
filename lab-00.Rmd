@@ -17,7 +17,7 @@ We set up the data frame. Edit the data below to include information about your 
 
 ```{r setup-tibble}
 team_data <- tibble(
-  name = c("Peter Rabbit", "member 1", "member 2", 
+  name = c("Peter Rabbit", "Yupeng Qiu", "member 2", 
            "member 3", "member 4"),
   github_username = c("mcgregors-garden", "Scandiacusqiu", "username 2", 
                       "username 3", "username 4"), 
